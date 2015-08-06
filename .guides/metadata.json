@@ -1,0 +1,132 @@
+{
+ "sections": [
+  {
+   "id": "b7e9e7cf-678a-7912-e38-8d5fbcbb613e",
+   "title": "Seminole Movie Database App",
+   "files": [
+    {
+     "path": "",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Seminole-Movie-Database-App-b7e9.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f090d8a0-16ee-29dd-7145-952ab335a7cf",
+   "title": "Step 1 - Install phpMyAdmin",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-1---Install-phpMyAdmin-f090.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "12f8f86e-d87b-eb32-f70a-23004df713c3",
+   "title": "Step 2 - Create New DB User",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-2---Create-New-DB-User-12f8.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "59e288f9-9b8-a2bf-2abe-7e6a594ed64b",
+   "title": "Step 3 - Create New Database",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-3---Create-New-Database-59e2.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "652a1292-291-c56a-d040-31cf3a3dc1ea",
+   "title": "Step 4 - Grant User Access to DB",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-4---Grant-User-Access-to-DB-652a.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "2edc4d2f-1116-70b0-9053-d4aa4c0c502",
+   "title": "Step 5 - Create New DB Table",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-5---Create-New-DB-Table-2edc.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "fcedbc6f-9747-9e59-89dc-9018a03dafda",
+   "title": "Step 6 - Add Data to DB Table",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-6---Add-Data-to-DB-Table-fced.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "e2d913de-7bcd-458d-92a5-3408b3c8fe40",
+   "title": "Step 7 - Test Your App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Step-7---Test-Your-App-e2d9.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "bded9407-b942-cf15-ebfd-cdae35b06a36",
+   "title": "Extra Credit (+6 pts)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Extra-Credit---6-pts--bded.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "775ef22-ed73-7d93-687d-3642791b7a87",
+   "title": "Git-Repository (10 pts)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Git-Repository--10-pts--775e.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f50f7d72-5667-6cc5-b26b-9e655eae945",
+   "title": "Grading Rubric",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Grading-Rubric-f50f.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "75c9cde3-a9f1-2432-683d-822bcd27f491",
+   "title": "Submission Requirements",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Submission-Requirements-75c9.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": []
+}
